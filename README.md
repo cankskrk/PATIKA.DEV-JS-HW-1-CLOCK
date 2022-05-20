@@ -1,4 +1,6 @@
-# Javascript-Saat-ve-Karşılama
+[KODLUYORUZ.ORG](https://www.kodluyoruz.org/)
+
+[PATIKA.DEV](https://www.patika.dev/tr)
 
 ![JS-SAAT-GIF](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev1/figures/clock.gif)
 
